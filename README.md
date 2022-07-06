@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Dev, Student and Hardware Enthusiast
 -----------------------------------------------
 
-I am a 19 year old junior at the University of Minnesota, Twin Cities studying Computer Science and Math. I love hardware and making computers as well as optimizing code. These days I stay buried in Research Papers learning about the RISC ISA and studing spectre and timing attacks.
+I am a 19 year old junior at the University of Minnesota, Twin Cities studying Computer Science and Math. I love hardware and making computers as well as optimizing code. These days I stay buried in Research Papers learning about the RISC ISA and studying spectre and timing attacks.
 
 * 🌍  I'm based in Minneapolis
 * ✉️  You can contact me at [mrig0001@umn.edu](mailto:mrig0001@umn.edu)
