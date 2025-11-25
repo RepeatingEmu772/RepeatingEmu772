@@ -4,16 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Dev, Student and Hardware Enthusiast
 -----------------------------------------------
 
-I am a rising senior at the University of Minnesota, Twin Cities studying Computer Science and Math. I love hardware and making computers as well as optimizing code. These days I stay buried in Research Papers learning about the collaborative and intuitive design.
+I am a graduate of the University of Minnesota, Twin Cities where I studied Computer Science and Math. Following graduation I worked as a Software Engineer at Target.
 
-* 🌍  I'm based in Minneapolis
-* ✉️  You can contact me at [mrig0001@umn.edu](mailto:mrig0001@umn.edu)
-* 🧠  I'm learning Verilog, Scala and Xilinx Vivado
+ I am passionate about hardware and making computers as well as writing intuitive software through clean code. These days I am reading a lot of research to keep myself updated in the field of Human-AI Collaboration and understand how intelligent systems can support us.
+
+* 🌍  I'm based in Minneapolis and Gurugram
+* ✉️  You can contact me at [mmrig4@gmail.com](mailto:mmrig4@gmail.com)
+* 🧠  I'm taking the Interactive Design Specialization by UC San Diego on Coursera right now
 * 🤝  I'm open to collaborating on interesting and dumb projects that help me learn more
-* ⚡  I am batman
-
-<a href="https://www.github.com/RepeatingEmu772" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RepeatingEmu772?logo=github&style=for-the-badge&color=0891b2&labelColor=7f1d1d" /></a>
+* ⚡  I share my birthday with Peter Parker
 
 ### Skills
 
@@ -43,13 +42,3 @@ src="https://img.shields.io/github/followers/RepeatingEmu772?logo=github&style=f
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/seriouslynotManan#7543" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RepeatingEmu772" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/manan-mrig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/mananmrig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/RepeatingEmu772/SPACE-SAMURAI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RepeatingEmu772&repo=SPACE-SAMURAI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&locale=en" /></a><a href="https://github.com/RepeatingEmu772/MazeGameandSolver_bfs_dfs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RepeatingEmu772&repo=MazeGameandSolver_bfs_dfs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/RepeatingEmu772/BattleshipSimulator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RepeatingEmu772&repo=BattleshipSimulator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&locale=en" /></a></div>
